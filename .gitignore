@@ -1,0 +1,5 @@
+*.txt
+node_modules/
+translate-linux
+translate-macos
+translate-win.exe
